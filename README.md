@@ -1,10 +1,9 @@
-### Hi, I'm Divhya!
+# Hi, I'm Divhya!
 
-I’m a software engineer who sees coding as a mix of **engineering + storytelling** — solving problems with creativity. <br/> 
+ <br/> 
 
 
-
-💻 Software Engineer contributing to the society<br/>
+💻 Software engineer who sees coding as a mix of **engineering + storytelling** — solving problems with creativity.<br/>
 🎓 Studied Computer Engineering at SIES Graduate School of Technology, India<br/>
 💼 At **Jio Platforms Ltd**, contributed to large-scale applications used by millions of users and
   enhanced enterprise portals<br/>
